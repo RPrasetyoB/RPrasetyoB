@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, a passionate and versatile Full Stack Software Engineer with a keen interest in creating robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming language and contributions.
+Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, a passionate and versatile Full Stack Software Engineer with a keen interest in creating robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming languages and contributions.
 
 You can find me on : <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/)
