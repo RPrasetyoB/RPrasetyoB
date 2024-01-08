@@ -18,6 +18,7 @@ You can find me on : <br>
 ![Axios](https://img.shields.io/badge/-Axios-purple?style=flat-square&logo=axios)
 ![Redux](https://img.shields.io/badge/-Redux-orange?style=flat-square&logo=redux)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
