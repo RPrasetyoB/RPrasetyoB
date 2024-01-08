@@ -34,4 +34,4 @@ You can find me on : <br>
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rprasetyob&show_icons=true&locale=en&layout=compact" alt="muhammad-avicena" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rprasetyob&show_icons=true&locale=en&layout=compact" alt="Renaldi-Prasetyo-Basuki" /></p>
