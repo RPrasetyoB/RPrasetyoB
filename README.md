@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/)
+[![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/)
 [![Gmail Badge](https://img.shields.io/badge/-rpbasuki.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:rpbasuki.dev@gmail.com)
 
 
