@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my GitHub profile! I'm [Your Name], a passionate and versatile Full Stack Software Engineer with a keen interest in creating robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, and contributions.
 
-You can find me on :
+You can find me on : <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/)
 [![Gmail Badge](https://img.shields.io/badge/-rpbasuki.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:rpbasuki.dev@gmail.com)
 
