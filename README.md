@@ -1,10 +1,10 @@
-<h1 align= "center">Hi there! <img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/d77640b6-4621-4759-a99e-a5191cacd4c4"></h1>
+<h1 align= "center">Hi there! <img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/0073396d-ccc9-441e-9f1c-75d9a2f1995e" width="30px" height="30px" /></h1>
 Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, a passionate and versatile Full Stack Software Engineer with a keen interest in creating robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming languages and contributions.
 <br>
 
 You can find me on : <br>
 
-![trouble-naughty](https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7)[![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/) <br>
+<img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7"  width="30px" height="30px"/>[![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/) <br>
 ![trouble-naughty](https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7)[![Gmail Badge](https://img.shields.io/badge/-rpbasuki.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:rpbasuki.dev@gmail.com)
 
 
