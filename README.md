@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, a passionate and vers
 You can find me on : 
 <br>
 <!-- <img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7" width="30px" height="30px"/> -->
-[![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/) <br>
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Avicena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/muhammad-avicena/)
-<img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7" width="30px" height="30px"/>[![Gmail Badge](https://img.shields.io/badge/-rpbasuki.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:rpbasuki.dev@gmail.com)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Renaldi_Prasetyo_Basuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/renaldi-prasetyo-basuki/)
+<img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/c5f3fe27-c9fd-45b6-b3ec-aba0d00d03b7" width="30px" height="30px"/>[![Gmail Badge](https://img.shields.io/badge/-rpbasuki.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:rpbasuki.dev@gmail.com) -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Avicena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/muhammad-avicena/)
 
 ## ⚡ Technologies & Tools :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
