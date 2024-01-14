@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi there 👋</h1>>
+<h1 align= "center">Hi there 👋</h1>>
 Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, a passionate and versatile Full Stack Software Engineer with a keen interest in creating robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming languages and contributions.
 
 You can find me on : <br>
