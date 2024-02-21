@@ -1,6 +1,6 @@
 <h1 align= "center">Hi there! <img src="https://github.com/RPrasetyoB/RPrasetyoB/assets/129088807/0073396d-ccc9-441e-9f1c-75d9a2f1995e" width="30px" height="30px" /></h1>
 
-Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, an enthusiastic Full Stack Software Engineer with a passion for building robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming languages and contributions.
+Welcome to my GitHub profile! I'm Renaldi Prasetyo Basuki, an enthusiastic Web Developer with a passion for building robust and scalable web applications. I thrive in dynamic and collaborative environments, where I can leverage my skills to deliver innovative solutions. Below, you'll find an overview of my key skills, projects, programming languages and contributions.
 <br>
 <br>
 You can find me on : 
