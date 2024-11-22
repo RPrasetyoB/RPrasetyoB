@@ -14,13 +14,14 @@ You can find me on :
 
 ## ⚡ Technologies & Tools :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-greenlight?style=flat-square&logo=Node.js)
+![Nextjs](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-greenlight?style=flat-square&logo=Node.js)
 ![Axios](https://img.shields.io/badge/-Axios-purple?style=flat-square&logo=axios)
 ![Redux](https://img.shields.io/badge/-Redux-orange?style=flat-square&logo=redux)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
