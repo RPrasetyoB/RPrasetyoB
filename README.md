@@ -43,5 +43,3 @@ You can find me on :
 ## &#x1f4c8; GitHub Stats
 
 [![Renaldi_Prasetyo_Basuki's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=RPrasetyoB&hide=html&theme=algolia&show_icons=true)](https://github.com/RPrasetyoB/)
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RPrasetyoB&theme=dark" alt="rpb" /></p>
